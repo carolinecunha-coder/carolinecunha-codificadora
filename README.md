@@ -1,4 +1,4 @@
-# Olá, sou a Caroline de Souza Cunha Lopes 👋
+# Olá, sou Caroline de Souza Cunha Lopes 👋
 
 ### Especialista em Investimentos & Inteligência de Mercado | Data Analytics
 
