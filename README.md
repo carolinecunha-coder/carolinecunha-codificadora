@@ -1,12 +1,12 @@
 # Olá, sou Caroline de Souza Cunha Lopes 👋
 
-### Especialista em Investimentos, Inteligência de Mercado & Seguros de Vida | Data Analytics
+### Investment Strategy, Market Intelligence & Life Insurance | Data Analytics
 
-Sou uma profissional com sólida base em finanças (Certificação CPA-20 pela ANBIMA), focada em utilizar Python e Ciência de Dados para transformar grandes volumes de informações em insights estratégicos.
+Professional with a solid background in Finance (CPA-20 certified by ANBIMA), focused on leveraging Python, Data Science and Analytics to transform large-scale datasets into strategic insights.
 
-Atuo na integração entre investimentos, gestão de carteira e proteção patrimonial, desenvolvendo soluções que consideram crescimento, risco e sustentabilidade financeira no longo prazo.
+Acting at the intersection of Portfolio Management, Investment Strategy and Risk Protection, developing solutions that balance growth, risk and long-term financial sustainability.
 
-Meu objetivo é elevar a precisão de análises de mercado e estruturar decisões financeiras mais consistentes por meio da tecnologia e do uso de dados.
+Driven to enhance market analysis accuracy and support data-driven decision making through technology.
 
 ---
 
